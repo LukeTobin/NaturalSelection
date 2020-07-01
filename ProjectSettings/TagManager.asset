@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - CraftingMenu
+  - crafting
+  - recipe
+  - bag
+  - inven
+  - time
+  - HelpScreen
+  - score
+  - items
+  - slot
+  - itemsScript
+  - tree
+  - ExtraCross
+  - tile
+  - plank
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable
+  - Room
+  - InteractableRock
+  - water
+  - tile
+  - efx
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tree
+    uniqueID: 704391201
+    locked: 0
+  - name: efx
+    uniqueID: 2982797541
+    locked: 0
